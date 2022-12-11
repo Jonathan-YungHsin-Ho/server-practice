@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Jonathan-YungHsin-Ho/server-practice#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^3.21.1"
   },
   "devDependencies": {
